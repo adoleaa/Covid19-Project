@@ -19,4 +19,4 @@ Data is in CSV format and updated daily. It is sourced from this upstream reposi
 
 We have cleaned and normalized that data, for example tidying dates and consolidating several files into normalized time series. We have also added some metadata such as column descriptions and data packaged it.
 
-You can view the data, its structure as well as download it in alternative formats (e.g. JSON) from the DataHub:  https://datahub.io/core/covid-19
+You can view the data and download it in alternative formats (e.g. JSON) from the DataHub:  https://datahub.io/core/covid-19
